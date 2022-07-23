@@ -1,0 +1,296 @@
+.heading
+{
+    background-color: blue;
+    height: 80px;
+
+}
+.logo img
+{
+    height: 80px;
+    margin-left: 100px;
+}
+.online
+{
+    margin-left: 23%;
+    margin-top: -4%;
+    background-color: aqua;
+    width: 10%;
+    height: 30%;
+    border-radius: 10px;
+    font-weight: bold;
+    color: white;
+}
+.online:hover
+{
+    color: gray;
+}
+.email
+{
+    margin-left: 45%;
+    margin-top: -2%;
+    color: white;
+
+}
+.call
+{
+    margin-left: 70%;
+    margin-top: -.90%;
+    background-color: red;
+    width: 7%;
+    height: 40%;
+    border-radius: 10px;
+    padding-top: 5px;
+    font-weight: bold;
+    color: white;
+    padding-left: 5px;
+}
+.number
+{
+    margin-left: 85%;
+    margin-top: -30px;
+    font-weight: bold;
+     color: white;
+
+}
+.menu ul
+{
+    list-style-type: none;
+}
+.menu li 
+{
+    display: inline;
+    margin-left: 40px;
+}
+.menu
+{
+    margin-left: 100px;
+    margin-top: 45px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.section1 
+{
+ margin-top: 400px;
+ margin-right:1100px;
+ font-weight: 20px;
+ background-color: blue;
+ padding-top: 25px;
+ padding-bottom: 25px;
+ color: white;
+}
+.section2
+{
+    margin-top:-232px;
+    margin-left:328px;
+    background-color: aqua;
+    margin-right: 750px;
+    color: white;
+    font-weight: 10px;
+    height: 220px;
+}
+.section2 h3
+{
+    padding-top: 39px;
+}
+.section3
+{
+   margin-left: 680px;
+   margin-top: -240px;
+   background-color: chartreuse;
+   color: white;
+   font-weight: 10px;
+   margin-right:390px;
+   padding-bottom: 39px;
+   
+}
+.section3 h3
+{
+    padding-top: 39px;
+}
+.section4
+{
+    margin-left: 1039px;
+    margin-top: -239px;
+    background-color: darkgreen;
+    color: white;
+    font-weight: 10px;
+    margin-right: 20px;
+    padding-bottom: 29px;
+    
+}
+.section4 h3
+{
+    padding-top: 39px;
+}
+.img
+{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.paragraph
+{
+    margin-left: 700px;
+    margin-top: -450px;
+    margin-right: 50px;
+}
+.paragraph p
+{
+    line-height: 30px;
+}
+.read
+{
+    margin-left: 800px;
+    padding-top:20px;
+    margin-right: 500px;
+    padding: 20px;
+    width: 100px;
+    background-color: blue;
+}
+.courses
+{
+    margin-left: 1000px;
+    margin-top:-59px;
+    margin-right: 500px;
+    padding: 20px;
+    width: 100px;
+    background-color: blue;  
+}
+.choose
+{
+    margin-top: 100px;
+    padding: 50px;
+    background-color: blue;
+    color: white;
+    width: 650px;
+    line-height: 30px;
+
+}
+.contact
+{
+    margin-left: 750px;
+    margin-top: -595px;
+    padding: 43px;
+    background-color: blue;
+    color: white;
+}
+.contact input
+{
+   height: 50px;
+   width: 600px;
+   margin-bottom: 20px;
+}
+.contact button
+{
+    background-color: green;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    color: white;
+    border: none;
+}
+.course h1
+{
+    text-align: center;
+}
+.course h3,img
+{
+    margin-left: 60px;
+}
+.course button
+{
+    background-color: blue;
+    color: white;
+    margin-left: 1200px;
+    margin-top: 50px;
+    width: 180px;
+    height: 50px;
+}
+.winners h1
+{
+    text-align: center;
+}
+.one 
+{
+    width: 600px;
+}
+.one img
+{
+    height: 150px;
+    margin-left:250px;
+    border-radius: 360px;
+}
+.one p
+{
+    margin-left: 50px;
+    line-height: 30px;
+}
+.two
+{
+    margin-left:800px;
+    margin-top: -250px;
+
+}
+.ourcourses
+{
+    background-color: blue;
+    color: white;
+}
+.ourcourses h1
+{
+    margin-left: 40px;
+}
+.language
+{
+ margin-left: 300px; 
+ margin-top: -200px;
+}
+.language li 
+{
+    margin-bottom: 20px;
+}
+.fasion
+{
+    margin-left: 600px;
+    margin-top: -190px;
+}
+.fasion li
+{
+    margin-bottom:20px ;
+}
+.cd
+{
+    margin-left: 900px;
+    margin-top:-190px;
+}
+.cd li
+{
+    margin-bottom: 20px;
+}
+.list li
+{
+    margin-bottom: 20px;
+}
+.copy
+{
+    margin-left: 50px;
+}
+
+
+.copy p
+{
+    margin-left: 50px;
+    
+}
+.iconone 
+{
+    margin-left: 1250px;
+    margin-top: -30px;
+    
+}
+.iconone i
+{
+margin-right: 25px;
+}
+
+
